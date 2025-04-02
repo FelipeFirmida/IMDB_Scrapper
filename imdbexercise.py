@@ -76,5 +76,7 @@ def main():
     end_time = time.time()
     print('Total time taken: ', end_time - start_time)
 
+
+# Initializing app
 if __name__ == '__main__':
     main()
